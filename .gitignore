@@ -30,3 +30,29 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+*.dSYM
+*.pdb
+*.idb
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+*.orig
+*.log
+*.tix
+*.tix.bak
+*.tix.tmp
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeOutput.log
+CMakeError.log
+
+build/
